@@ -10,3 +10,5 @@ otros cambios en rama2
 
 nuevos cambios para realizar una tercera fusion con exito
 realizamos otro cambio para luego fusionar la rama2 con main
+
+se realizo una fusion desde main a rama2, con exito
