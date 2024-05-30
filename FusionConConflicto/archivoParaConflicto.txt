@@ -1,3 +1,4 @@
-Intentando generar un conflicto
+Necesito generar un conflicto
 
-un conflicto
+Otra linea para conflicto
+
