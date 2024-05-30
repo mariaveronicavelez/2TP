@@ -9,3 +9,5 @@ Realizamos la primera fusion desde main a rama2
 realizamos la segunda fusion con exito
 
 tercer fusion fue realizada con exito
+
+esperando la ultima fusion
