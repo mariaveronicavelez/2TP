@@ -6,8 +6,8 @@ Otra linea para conflicto
 En esta rama2 cambiando este texto, debera generar un conflicto en la rama main
 
 
+En esta rama2 cambiando este texto, debera generar un conflicto en la rama main
 
-Ultima linea utilizada para generar el ultimo conflicto solicitado, es realizada en la linea 10
 
+En esta linea 10 se dejo un mensaje, para generar un conflicto, y el texto que quedara como final, sera este mismo.
 
-Aqui podemos demostrar el ultimo conflicto
