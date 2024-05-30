@@ -2,3 +2,6 @@ Necesito generar un conflicto
 
 Otra linea para conflicto
 
+
+
+Utilizamos la linea 7 para generar otro conflicto
