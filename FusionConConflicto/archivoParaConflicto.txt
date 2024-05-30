@@ -1,3 +1,7 @@
 Necesito generar un conflicto
 
 Otra linea para conflicto
+
+
+
+En esta rama2 cambiando este texto, debera generar un conflicto en la rama main
