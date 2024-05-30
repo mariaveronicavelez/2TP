@@ -4,3 +4,7 @@ Otra linea para conflicto
 
 
 En esta rama2 cambiando este texto, debera generar un conflicto en la rama main
+
+
+
+Ultima linea utilizada para generar el ultimo conflicto solicitado, es realizada en la linea 10
