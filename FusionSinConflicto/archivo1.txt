@@ -7,3 +7,5 @@ otra mod en archivo1 en rama main
 Realizamos la primera fusion desde main a rama2
 
 realizamos la segunda fusion con exito
+
+tercer fusion fue realizada con exito
