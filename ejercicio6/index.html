@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejercicio 6</title>
+    <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+<div class="container">
+  <h1>Formulario de Validación</h1>
+  <form id="validationForm">
+    <div class="form-group">
+      <label for="nombre">Nombre:</label>
+      <input type="text" id="nombre" required>
+    </div>
+
+    <div class="form-group">
+      <label for="apellido">Apellido:</label>
+      <input type="text" id="apellido" required>
+    </div>
+
+    <div class="form-group">
+      <label for="edad">Edad:</label>
+      <input type="number" id="edad" required>
+    </div>
+
+    <div class="form-group">
+      <label for="altura">Altura (cm):</label>
+      <input type="number" id="altura" required>
+    </div>
+
+    <div class="form-group">
+      <label for="correo">Correo electrónico:</label>
+      <input type="email" id="correo" required>
+    </div>
+
+    <button type="submit">Validar</button>
+  </form>
+
+  <div id="mensaje"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
